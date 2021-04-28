@@ -1,0 +1,65 @@
+nav{
+    width:100%;
+}
+
+nav{
+    background-color: grey;
+}
+nav ul{
+    display:flex;
+    list-style-type:none;
+}
+
+
+button{
+    width: 200px;
+    height: 50px;
+}
+
+th{
+    width: 150px;
+    border:1px solid black;
+}
+
+#vista{
+    background-color: pink;
+}
+#lista{
+    background-color: powderblue;
+}
+#formulario{
+    background-color: lightgreen;
+}
+//tajetas
+ul{
+    list-style-type: none;
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 2px;
+    align-items: stretch;
+    display: flex;
+
+}
+
+ul li{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 2%;
+
+}
+
+ul li span{
+    display: block;
+    overflow: hidden;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+ul li i{
+   font-size: 70px;
+   float: left;
+}
+
+#icono{
+    font-size: 30px;
+}
